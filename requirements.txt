@@ -1,0 +1,9 @@
+flask == 1.1.2
+requests
+scikit-learn
+pandas
+tensorflow ==1.0.0
+matplotlib
+seaborn
+numpy
+xgboost
